@@ -3,7 +3,7 @@ writings-io
 
 http://writings.io
 
-一个为享受写作过程的人准备的写作环境。
+一个为不爱折腾的人准备的写作环境。
 
 此 repo 仅用作 issues 记录。
 
